@@ -37,6 +37,18 @@ Está pensado para quienes quieran organizar juegos de intercambio de regalos en
 > ⚠️ El proyecto funciona directamente desde el navegador. Solo necesitas abrir el archivo `index.html`.
 
 ---
+## ⚙️ Instalación y uso
+
+Este proyecto **no requiere instalación ni dependencias externas**. Para usarlo, sigue estos pasos:
+
+1. 📥 **Descarga el proyecto en formato ZIP** desde este repositorio:
+   - Haz clic en el botón verde **“Code”** (arriba a la derecha).
+   - Luego selecciona **“Download ZIP”**.
+   - Extrae el contenido del archivo ZIP en tu computadora.
+
+2. 🧭 Abre el archivo `index.html` en tu navegador (doble clic o clic derecho → “Abrir con”).
+
+3. 🎉 ¡Listo! Ya puedes usar el Sorteador de Amigo Secreto sin necesidad de instalar nada.
 
 ## 👩‍💻 Autor
 
