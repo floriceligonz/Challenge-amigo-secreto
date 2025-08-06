@@ -2,9 +2,10 @@
 <p align="center">
   Una app web simple y divertida para organizar sorteos de Amigo Secreto. Ideal para celebraciones, cumpleaños o eventos entre amigos. 🧑‍🤝‍🧑✨
 </p>
-## 🖼️ Vista previa
-
-![Vista previa de la aplicación](./assets/imagenReadme.png)
+<h2 align="center">🖼️ Vista previa</h2>
+<p align="center">
+  <img src="./assets/imagenReadme.png" width="600">
+</p>
 
 ---
 
