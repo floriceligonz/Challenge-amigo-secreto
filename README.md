@@ -4,7 +4,7 @@
 </p>
 ## 🖼️ Vista previa
 
-![Vista previa de la aplicación](./assets/screenshot.png)
+![Vista previa de la aplicación](./assets/imagenReadme.png)
 
 ---
 
